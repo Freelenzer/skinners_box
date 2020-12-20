@@ -15323,7 +15323,7 @@ _.a=f
 _.b=g
 _.c=h},
 wu:function wu(){},
-ahI:function(){var s,r,q,p,o,n,m=null,l=P.av(["/Home",new F.a1k(),"/Timer",new F.a1l()],t.bi,t.gd)
+ahI:function(){var s,r,q,p,o,n,m=null,l=P.av(["/",new F.a1k(),"/Timer",new F.a1l()],t.bi,t.gd)
 if($.aX==null){s=H.d([],t.kf)
 r=$.X
 q=H.d([],t.kC)
@@ -15331,7 +15331,7 @@ p=P.bh(7,m,!1,t.tI)
 o=t.S
 n=t.u3
 new N.CW(m,s,!0,new P.aY(new P.a1(r,t.U),t.hb),!1,m,!1,!1,m,m,!1,m,!1,0,!1,m,!1,m,new N.Hu(P.bD(t.M)),m,!1,m,!1,q,m,N.ah6(),new Y.yY(N.ah5(),p,t.f7),!1,0,P.z(o,t.b1),P.bg(o),H.d([],n),H.d([],n),m,!1,C.ff,!0,!1,m,C.H,C.H,m,0,m,!1,P.iR(m,t.cL),new O.PU(P.z(o,t.p6),P.z(t.yd,t.rY)),new D.N2(P.z(o,t.eK)),new G.PX(),P.z(o,t.ln),m,!1,!1,C.y_).Nc()}s=$.aX
-s.Jj(new S.qt(l,"/Home",m))
+s.Jj(new S.qt(l,"/",m))
 s.zx()
 return m},
 a1k:function a1k(){},
